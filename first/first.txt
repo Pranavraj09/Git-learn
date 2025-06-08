@@ -10,4 +10,8 @@ add more content to the pink mode and access it that would be that.
 
 add more content to that for that.          
 add more content to that for that.          
-add more content to that for that.          
+add more content to that for that.   
+git push origin main
+git push origin main
+git push origin main
+git push origin main
